@@ -1,6 +1,6 @@
 {
   "name": "homebridge-chromecast-speaker",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Expose Chromecast Audio devices in Homebridge as Speakers to control them",
   "license": "ISC",
   "keywords": [
@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "castv2-client": "^1.2.0",
-    "hap-nodejs": "^0.4.28",
     "mdns": "^2.3.3"
   },
   "devDependencies": {
